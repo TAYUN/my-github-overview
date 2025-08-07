@@ -50,6 +50,8 @@ jobs:
         git config --global user.name  "${{ github.actor }}"
         git config --global user.email "${{ github.actor }}@users.noreply.github.com"
         git add .
+        # 只在有变更时 commit + push
+        git diff --cached --quiet || (git commit -m "chore: update stats ($(date -u +%F))" && git push)
         # Force the build to succeed, even if no files were changed
-        git commit -m 'Update generated files' || true
-        git push
+        # git commit -m 'Update generated files' || true
+        # git push
