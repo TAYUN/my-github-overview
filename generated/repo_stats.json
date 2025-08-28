@@ -3663,6 +3663,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -3775,6 +3780,11 @@
         "views": 0
       },
       "2025-08-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-08-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -3893,6 +3903,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -4005,6 +4020,11 @@
         "views": 0
       },
       "2025-08-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-08-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -4123,6 +4143,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -4235,6 +4260,11 @@
         "views": 0
       },
       "2025-08-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-08-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -4353,6 +4383,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -4468,6 +4503,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -4498,6 +4538,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -4505,7 +4550,7 @@
     "last_views": 0
   },
   "TAYUN/yun-waterfall-uni": {
-    "stars": 1,
+    "stars": 2,
     "clones": 0,
     "views": 0,
     "history": {
@@ -4523,9 +4568,14 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-08-28": {
+        "stars": 1,
+        "clones": 0,
+        "views": 0
       }
     },
-    "last_stars": 1,
+    "last_stars": 2,
     "last_clones": 0,
     "last_views": 0
   }
